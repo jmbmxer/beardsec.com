@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>beardsec</title><link href="http://beardsec.com/" rel="alternate"></link><link href="http://beardsec.com/feeds/all-en.atom.xml" rel="self"></link><id>http://beardsec.com/</id><updated>2014-01-30T00:00:00-08:00</updated><entry><title>Up and Running</title><link href="http://beardsec.com/rambling/up-and-running" rel="alternate"></link><updated>2014-01-30T00:00:00-08:00</updated><author><name>Jimmy</name></author><id>tag:beardsec.com,2014-01-30:rambling/up-and-running</id><summary type="html">&lt;p&gt;Some content written with restructuredtext...&lt;/p&gt;
+</summary><category term="welcome"></category><category term="beards"></category></entry></feed>
